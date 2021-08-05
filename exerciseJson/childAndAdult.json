@@ -1,0 +1,36 @@
+[
+  {
+    "img":"https://seven.app/media/images/image4.gif",
+    "name":"Squat",
+    "description":"Always keep it simple and focus on achieving the best squat technique first. Begin your squat with a setup; standing fully upright with your feet shoulder-width apart.",
+    "procedure":"Start with your feet shoulder-width apart, toes slightly out, and your arms down at your side.Start to hinge at the hips and bend your knees, sitting back like you’re going to sit down and allowing your arms to raise up in front of you. Ensure that your knees don’t fall inward and your back stays straight.When your thighs are parallel to the ground, stop and push up through your heels to return to start.."
+  },
+
+  {
+    "img":"https://i.pinimg.com/originals/c4/b4/02/c4b402b07b5accacf413cf16ed1b36ed.gif",
+    "name":"Jump Squats",
+    "description":"Increase the challenge of your squats by including aerobic movements that will increase your heart rate or put more stress on the ligaments. Frog jumps and 180 or 360 degrees Jump Squats are a great start!",
+    "procedure":"Sit back with your feet in a wide stance and with the toes turned out at an angle. Jump forward and up, land on your toes, and squat. Jump back and return to the starting position. Repeat this back and forth movement until the set is complete."
+  },
+
+  {
+    "img":"https://seven.app/media/images/Wall-Push-Up.gif",
+    "name":"Wall push-ups",
+    "description":"Another great beginner push-up variation is the Wall Push-Up. Wall Push-Ups are a perfect opportunity to learn the movement while protecting bad joints and preventing injuries.",
+    "procedure":"Assume the starting position with feet and legs together, standing about 2 feet from a wall with your arms straight out in front of you. Your palms should be on the wall at about shoulder-level height and shoulder-width apart, with finger pointed toward the ceiling. If you feel like you’re reaching too far, move your feet closer.Bend your elbows and begin to lean your body toward the wall until your nose almost touches it. Ensure your back stays straight and your hips don’t sag.Push back to the starting position and repeat.Complete 4-5 sets of 20 reps."
+
+  },
+
+  {
+    "img":"https://seven.app/media/images/Crunches.gif",
+    "name":"  Crunches",
+    "description":"Don’t feel a need to rush through the movement, start slow and focus on control and being aware of the muscles you’re working.",
+    "procedure":"Start by lying on the floor with your back on the ground.Lie flat with your lower back (lumbar) on the floor and imagine that your navel is pressing down into the ground.Bring your shoulders to your hips by pulling your body up and engaging your stomach muscles.Slowly release back down to the starting position, and do the movement again while keeping the lower back on the floor."
+  },
+  {
+    "img":"https://seven.app/media/images/Plank.gif",
+    "name":"Planks",
+    "description":"Beware the common mistake of looking up which can put too much strain on the neck. Also, avoid arching your back in this position by keeping your abs engaged. If you start to arch your back or feel too much strain, squeeze your glutes and think about moving your hips back in line.",
+    "procedure":"For an original Plank position, start in a push-up-like position with your body weight on your forearms, elbows and toes. Maintain a straight line from your heels through to the top of your head, looking down at the floor with your gaze slightly in front of your face. Be sure to brace your abs and keep a straight and elongated spine."
+  }
+]
